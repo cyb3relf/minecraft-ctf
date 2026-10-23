@@ -23,7 +23,7 @@ I created this CTF to help people learn Linux command-line and sysadmin skills i
 First, download the repository:
 
 ```bash
-git clone https://github.com/susjantux/minecraft-ctf.git
+git clone https://github.com/cyb3relf/minecraft-ctf.git
 cd minecraft-ctf
 ```
 
